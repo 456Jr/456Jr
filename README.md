@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @456Jr
-- 👀 I’m interested in Paper Mario Mods
-- 🌱 I’m currently learning How to mod better
-- 💞️ I’m looking to collaborate on any good mod
+- 👀 I’m interested in Paper Mario, Mario 64, Modding and N64 in general
+- 🌱 I’m currently learning how to spend my free time
+- 💞️ I’m looking to collaborate on any
+ mod
 - 📫 How to reach me, just find me
 
 <!---
